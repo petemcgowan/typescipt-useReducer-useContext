@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: #282c34;
+  font-size: medium;
+  color: white;
+  height: 100vh;
+}
+
+label {
+  padding-bottom: 10px;
+}
